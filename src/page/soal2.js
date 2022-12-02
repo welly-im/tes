@@ -23,7 +23,7 @@ export const Soal2 = () => {
 	return (
 		<>
 			<div>
-				<h3>Decimal</h3>
+				<h3>Konversi nilai faktorial</h3>
 				Masukkan nilai faktorial :{' '}
 				<input type='number' onChange={handleFaktorial} />
 				<button

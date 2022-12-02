@@ -47,7 +47,7 @@ export const Soal5 = () => {
 	return (
 		<>
 			<div>
-				<h3>Alphabet</h3>
+				<h3>Hitung jumlah alfabet</h3>
 				Masukkan kalimat : <input type='text' onChange={handleSentence} />
 				<button className='ml-3 btn btn-outline-primary' onClick={handleResult}>
 					Cek

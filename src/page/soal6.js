@@ -27,7 +27,7 @@ export const Soal6 = () => {
 	return (
 		<>
 			<div>
-				<h3>Tringle Pascale</h3>
+				<h3>Segitia paskal</h3>
 				Masukkan jumlah baris : <input type='number' onChange={handleRow} />
 				<button className='ml-3 btn btn-outline-primary' onClick={handleResult}>
 					Cek

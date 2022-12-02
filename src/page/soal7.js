@@ -18,7 +18,7 @@ export const Soal7 = () => {
 	return (
 		<>
 			<div>
-				<h3>Remove Punctuation and Space</h3>
+				<h3>Hapus tanda baca</h3>
 				Masukkan kalimat : <input type='text' onChange={handleSentence} />
 				<button className='ml-3 btn btn-outline-primary' onClick={handleResult}>
 					Cek
